@@ -1,0 +1,37 @@
+.counter {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  row-gap: 20px;
+}
+
+.counter h1 {
+  color: rgb(186, 13, 19);
+  font-size: 70px;
+  font-weight: 600;
+}
+
+.counterResult{
+  font-size: 80px;
+  color: orange;
+}
+
+
+.buttonClick {
+  width: 200px;
+  height: 50px;
+  font-size: 30px;
+  padding: 10px 20px;
+  background-color: bisque;
+  color: rgb(8, 61, 23);
+  border: 2px solid black;
+  
+}
+
+
+
+
+
+
